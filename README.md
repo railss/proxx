@@ -1,3 +1,6 @@
+
+<img width="824" alt="Screenshot 2024-07-23 at 17 10 59" src="https://github.com/user-attachments/assets/67077f84-9d7e-4d6f-ab1c-b6b34a4eb531">
+
 I have developed a Minesweeper-like game called "PROXX". The development process involved several key steps and approaches to ensure the game is both functional and maintainable:
 
 CQRS Pattern: I structured the application using the Command Query Responsibility Segregation (CQRS) pattern. This approach separates the commands that change state from the queries that read state, making the codebase easier to manage and understand.
